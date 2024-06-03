@@ -54,3 +54,4 @@ This is a React application that connects to Jira's REST API and lists all issue
 3. Managed state using React hooks (useState, useEffect).
 4. Styled the application with basic CSS.
 5. Implemented error handling and loading states
+6. Served react app using nodejs to avoid CORS issue
