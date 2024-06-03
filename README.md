@@ -44,6 +44,7 @@ This is a React application that connects to Jira's REST API and lists all issue
    npm install
    npm run build
    cd proxy-server
+   npm install
    npm start
    visit: http://localhost:4000
    ```
