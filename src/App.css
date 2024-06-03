@@ -1,0 +1,31 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+.selects {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
