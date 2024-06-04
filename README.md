@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### Project url: https://react-jira-issue-byo1nybxa-deepakkokanes-projects.vercel.app/
+### Project url: https://react-jira-issue.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
